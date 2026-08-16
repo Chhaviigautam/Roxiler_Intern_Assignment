@@ -18,7 +18,7 @@ A full-stack web application that allows users to discover and rate stores. The 
 *   **Backend:** Node.js, Express, MySQL, bcrypt (for password hashing), jsonwebtoken (for authentication).
 *   **Database:** MySQL
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
