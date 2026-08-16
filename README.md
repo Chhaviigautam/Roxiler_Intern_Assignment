@@ -2,7 +2,7 @@
 
 A full-stack web application that allows users to discover and rate stores. The platform supports three distinct roles: Normal Users, Store Owners, and Administrators.
 
-## 🌟 Features
+## Features
 
 *   **Role-Based Access Control:**
     *   **Admin:** Complete control over the platform. Can manage users, create stores, and assign store owners.
@@ -12,7 +12,7 @@ A full-stack web application that allows users to discover and rate stores. The 
 *   **Modern UI/UX:** Built with React and stylized using modern CSS patterns, avoiding inline AI-generated comments.
 *   **Robust Backend:** Powered by Node.js, Express, and MySQL.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 *   **Frontend:** React, Vite, React Router, Lucide React (for icons).
 *   **Backend:** Node.js, Express, MySQL, bcrypt (for password hashing), jsonwebtoken (for authentication).
@@ -66,7 +66,7 @@ A full-stack web application that allows users to discover and rate stores. The 
    ```
    *The frontend runs on `http://localhost:5173` by default.*
 
-## 🔐 Default Credentials
+## Default Credentials
 
 After successfully running the `setup_db.js` script, the following default Administrator account is created:
 
