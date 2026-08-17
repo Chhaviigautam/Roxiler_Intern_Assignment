@@ -1,8 +1,11 @@
 # Store Rating Platform
-##  Video Walkthrough
+A full-stack web application that allows users to discover and rate stores. The platform supports three distinct roles: Normal Users, Store Owners, and Administrators.
+
+
+
+## Video Walkthrough
 Watch a full walkthrough of the project here: [Loom Video](https://www.loom.com/share/78be178540a64982ae4df9e231d9e9c5)
 
-A full-stack web application that allows users to discover and rate stores. The platform supports three distinct roles: Normal Users, Store Owners, and Administrators.
 
 ## Features
 
